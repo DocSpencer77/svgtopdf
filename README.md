@@ -11,6 +11,8 @@
 
 # Freesewing SVG to (tiled) PDF backend
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/freesewing/svgtopdf.svg)](https://greenkeeper.io/)
+
 [Freesewing](https://freesewing.org/) is an open source platform for made-to-measure sewing pattern.  
 
 This is a stand-alone backend API to turn SVG patterns into (tiled) PDFs.
